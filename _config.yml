@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Qiaosheng Chen
+description: subtitle | Websoft@NJU | motto
 
 baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: qschen@smail.nju.edu.cn
 
 # Pagination
 paginate: 4
