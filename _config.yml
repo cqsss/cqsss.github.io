@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Qiaosheng Chen
-description: subtitle | Websoft@NJU | motto
+description: PhD student | Websoft@NJU
 
 baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: qschen@smail.nju.edu.cn
+email: qschen\#smail.nju.edu.cn
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+# twitter: "#"
+# linkedin: "#"
+# stackoverflow: "#"
+github: "https://github.com/cqsss"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
 
 
 # Markdown

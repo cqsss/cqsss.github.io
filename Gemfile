@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
+source 'https://mirror.nju.edu.cn/rubygems/'
 
 gem 'jekyll'
-gem 'github-pages'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag'
@@ -11,3 +10,7 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new('3.2.0')
+  gem 'liquid', '>= 4.0.4'
+end
