@@ -22,15 +22,20 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 ### Awards & Honors
 
-- <div style="float: left">🏅 The First Prize Scholarship of Nanjing University</div><div style="float: right">2021, 2022</div>
+
+- <div style="float: left">🏅 Outstanding Graduate Student of Nanjing University</div><div style="float: right">2022</div>
+
+- <div style="float: left">🏅 First-Class Academic Scholarship of Nanjing University</div><div style="float: right">2021, 2022</div>
+
+- <div style="float: left">🏅 Outstanding Graduate of Shandong Province</div><div style="float: right">2021</div>
 
 - <div style="float: left">🏅 Silver Medal of The ACM-ICPC Asia Regional Contest, Shanghai Site</div><div style="float: right">2019</div>
 
-- <div style="float: left">🏅 The First Prize Scholarship of Harbin Institute of Technology at Weihai</div><div style="float: right">2018, 2019</div>
+- <div style="float: left">🏅 First-Class Scholarship of Harbin Institute of Technology at Weihai</div><div style="float: right">2018, 2019</div>
 
 - <div style="float: left">🏅 Silver Medal of The ACM-ICPC Asia Regional Contest, Xuzhou Site</div><div style="float: right">2018</div>
 
-- <div style="float: left">🏅 National Scholarship</div><div style="float: right">2018</div>
+- <div style="float: left">🏅 National Scholarship (for undergraduate students)</div><div style="float: right">2018</div>
 
 
 ### Teaching Assistant
