@@ -22,6 +22,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 ### Awards & Honors
 
+- <div style="float: left">🏅 ISWC Student Travel Grant</div><div style="float: right">2023</div>
 
 - <div style="float: left">🏅 Outstanding Graduate Student of Nanjing University</div><div style="float: right">2022</div>
 
@@ -40,5 +41,6 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 ### Teaching Assistant
 
+- <div style="float: left">👨‍🏫 Problem Solving (For undergraduate students)</div><div style="float: right">Fall 2023</div>
 
 - <div style="float: left">👨‍🏫 Academic Literature Reading and Writing (For undergraduate students)</div><div style="float: right">Spring 2023</div>
