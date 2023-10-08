@@ -15,9 +15,11 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 ### Publications
 
-- 📔 [**ISWC'23**] **Qiaosheng Chen**, Zixian Huang, Zhiyang Zhang, Weiqing Luo, Tengteng Lin, Qing Shi, and Gong Cheng. [Dense Re-Ranking with Weak Supervision for RDF Dataset Search.]()
+- 📔 [**EMNLP-Findings 2024**] Weiqing Luo, **Qiaosheng Chen**, Zhiyang Zhang, Zixian Huang, Gong Cheng. [An Empirical Investigation of Implicit and Explicit Knowledge-Enhanced Methods for Ad Hoc Dataset Retrieval.]()
+
+- 📔 [**ISWC 2023**] **Qiaosheng Chen**, Zixian Huang, Zhiyang Zhang, Weiqing Luo, Tengteng Lin, Qing Shi, and Gong Cheng. [Dense Re-Ranking with Weak Supervision for RDF Dataset Search.]()
   
-- 📔 [**SIGIR'22**] Tengteng Lin, **Qiaosheng Chen**, Gong Cheng, Ahmet Soylu, Basil Ell, Ruoqi Zhao, Qing Shi, Xiaxia Wang, Yu Gu, and Evgeny Kharlamov. [ACORDAR: A Test Collection for Ad Hoc Content-Based (RDF) Dataset Retrieval.](https://doi.org/10.1145/3477495.3531729)
+- 📔 [**SIGIR 2022**] Tengteng Lin, **Qiaosheng Chen**, Gong Cheng, Ahmet Soylu, Basil Ell, Ruoqi Zhao, Qing Shi, Xiaxia Wang, Yu Gu, and Evgeny Kharlamov. [ACORDAR: A Test Collection for Ad Hoc Content-Based (RDF) Dataset Retrieval.](https://doi.org/10.1145/3477495.3531729)
   
 
 ### Awards & Honors
