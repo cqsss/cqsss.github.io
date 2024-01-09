@@ -12,6 +12,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 ### Research Interests
 
 - 🔍 Data Search
+- 🔍 Information Retrieval
 
 ### Publications
 
