@@ -39,7 +39,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 - <div style="float: left">🏅 Silver Medal of The ACM-ICPC Asia Regional Contest, Xuzhou Site</div><div style="float: right">2018</div>
 
-- <div style="float: left">🏅 National Scholarship (for undergraduate students)</div><div style="float: right">2018</div>
+- <div style="float: left">🏅 National Scholarship (For undergraduate students)</div><div style="float: right">2018</div>
 
 
 ### Teaching Assistant
