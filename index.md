@@ -41,6 +41,11 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a Ph.D. student of [W
 
 - <div style="float: left">🏅 National Scholarship (For undergraduate students)</div><div style="float: right">2018</div>
 
+### Services
+
+#### PC Member
+
+- CIKM [2024](https://cikm2024.org/)
 
 ### Teaching Assistant
 
