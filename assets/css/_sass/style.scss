@@ -5,8 +5,7 @@ body {
 
 body {
   max-width: $content-width;
-  // font-family: $base-font-family;
-  font-family: Georgia, Times, Times New Roman, serif, fangsong;
+  font-family: $base-font-family;
   margin: 0 auto;
   line-height: $base-line-height;
   font-size: $base-font-size;
@@ -29,7 +28,8 @@ h4,
 h5,
 h6 {
   // font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
-  font-family: Georgia, Times, Times New Roman, serif, fangsong;
+  font-family: $base-font-family;
+  // font-family: Georgia, Times, Times New Roman, serif, fangsong;
   font-weight: bold;
   line-height: 1.8;
   margin: 0;
@@ -112,7 +112,8 @@ code {
 blockquote {
   border-left: 2px solid $brand-color;
   padding-left: 1em;
-  font-family: Georgia, Times, Times New Roman, serif;
+  // font-family: Georgia, Times, Times New Roman, serif;
+  font-family: $base-font-family;
   font-size: 0.9*$base-font-size;
   font-style: italic;
 }
