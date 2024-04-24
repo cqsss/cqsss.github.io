@@ -39,21 +39,23 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a first-year Ph.D. st
 
 ### 🏅 Awards & Honors
 
-- <div style="float: left"> ISWC Student Travel Grant</div><div style="float: right">2023</div>
+- <div style="float: left"> SIGIR Student Travel Grant </div><div style="float: right">2024</div>
 
-- <div style="float: left"> Outstanding Graduate Student of Nanjing University</div><div style="float: right">2022</div>
+- <div style="float: left"> ISWC Student Travel Grant  </div><div style="float: right">2023</div>
 
-- <div style="float: left"> First-Class Academic Scholarship of Nanjing University</div><div style="float: right">2021, 2022</div>
+- <div style="float: left"> Outstanding Graduate Student of Nanjing University </div><div style="float: right">2022</div>
 
-- <div style="float: left"> Outstanding Graduate of Shandong Province</div><div style="float: right">2021</div>
+- <div style="float: left"> First-Class Academic Scholarship of Nanjing University </div><div style="float: right">2021, 2022</div>
 
-- <div style="float: left"> Silver Medal of The ACM-ICPC Asia Regional Contest, Shanghai Site</div><div style="float: right">2019</div>
+- <div style="float: left"> Outstanding Graduate of Shandong Province </div><div style="float: right">2021</div>
 
-- <div style="float: left"> First-Class Scholarship of Harbin Institute of Technology at Weihai</div><div style="float: right">2018, 2019</div>
+- <div style="float: left"> Silver Medal of The ACM-ICPC Asia Regional Contest, Shanghai Site </div><div style="float: right">2019</div>
 
-- <div style="float: left"> Silver Medal of The ACM-ICPC Asia Regional Contest, Xuzhou Site</div><div style="float: right">2018</div>
+- <div style="float: left"> First-Class Scholarship of Harbin Institute of Technology at Weihai </div><div style="float: right">2018, 2019</div>
 
-- <div style="float: left"> National Scholarship (For undergraduate students)</div><div style="float: right">2018</div>
+- <div style="float: left"> Silver Medal of The ACM-ICPC Asia Regional Contest, Xuzhou Site </div><div style="float: right">2018</div>
+
+- <div style="float: left"> National Scholarship (For undergraduate students) </div><div style="float: right">2018</div>
 
 ### 🕵️ Academic Services
 
