@@ -14,11 +14,11 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 # twitter: "#"
-linkedin: "www.linkedin.com/in/qiaosheng-chen"
+linkedin: "qiaosheng-chen"
 # stackoverflow: "#"
-github: "https://github.com/cqsss"
+github: "cqsss"
 # researchgate: "#"
-orcid: "https://orcid.org/0009-0002-0610-7725"
+orcid: "0009-0002-0610-7725"
 # quora: "#"
 # instagram: "#"
 # facebook: "#"
