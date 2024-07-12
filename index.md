@@ -28,11 +28,11 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a first-year Ph.D. st
   [An Empirical Investigation of Implicit and Explicit Knowledge-Enhanced Methods for Ad Hoc Dataset Retrieval.](https://aclanthology.org/2023.findings-emnlp.957/)  
   **<font color=DodgerBlue>EMNLP-Findings 2023</font>** <font color=Deeppink>CCF-B</font>
 
-- **Qiaosheng Chen**, Zixian Huang, Zhiyang Zhang, Weiqing Luo, Tengteng Lin, Qing Shi, and Gong Cheng.  
+- **Qiaosheng Chen**, Zixian Huang, Zhiyang Zhang, Weiqing Luo, Tengteng Lin, Qing Shi, Gong Cheng.  
   [Dense Re-Ranking with Weak Supervision for RDF Dataset Search.](https://doi.org/10.1007/978-3-031-47240-4_2)  
   **<font color=DodgerBlue>ISWC 2023</font>** <font color=Deeppink>CCF-B</font> **<font color=Orange>Best Research Paper Nominee</font>**
   
-- Tengteng Lin, **Qiaosheng Chen**, Gong Cheng, Ahmet Soylu, Basil Ell, Ruoqi Zhao, Qing Shi, Xiaxia Wang, Yu Gu, and Evgeny Kharlamov.  
+- Tengteng Lin, **Qiaosheng Chen**, Gong Cheng, Ahmet Soylu, Basil Ell, Ruoqi Zhao, Qing Shi, Xiaxia Wang, Yu Gu, Evgeny Kharlamov.  
   [ACORDAR: A Test Collection for Ad Hoc Content-Based (RDF) Dataset Retrieval.](https://doi.org/10.1145/3477495.3531729)  
   **<font color=DodgerBlue>SIGIR 2023</font>**  <font color=Deeppink>CCF-A</font>
   
