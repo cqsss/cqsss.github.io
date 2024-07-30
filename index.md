@@ -16,6 +16,11 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a first-year Ph.D. st
 
 ### 📔 Publications
 
+- **Qiaosheng Chen**, Xiao Zhou, Zhiyang Zhang, Gong Cheng.  
+  [DUNKS: Chunking and Summarizing Large and Heterogeneous Data for Dataset Search.]()  
+  **<font color=DodgerBlue>ISWC 2024</font>**  <font color=Deeppink>CCF-B</font>  
+  [[Paper]()][[Code](https://github.com/nju-websoft/DUNKS)]
+
 - **Qiaosheng Chen**, Jiageng Chen, Xiao Zhou, Gong Cheng.  
   [Enhancing Dataset Search with Compact Data Snippets.](https://doi.org/10.1145/3626772.3657837)  
   **<font color=DodgerBlue>SIGIR 2024</font>**  <font color=Deeppink>CCF-A</font>  
@@ -44,10 +49,6 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a first-year Ph.D. st
 
 ### 🏅 Awards & Honors
 
-- <div style="float: left"> SIGIR Student Travel Grant </div><div style="float: right">2024</div>
-
-- <div style="float: left"> ISWC Student Travel Grant  </div><div style="float: right">2023</div>
-
 - <div style="float: left"> Outstanding Graduate Student of Nanjing University </div><div style="float: right">2022</div>
 
 - <div style="float: left"> First-Class Academic Scholarship of Nanjing University </div><div style="float: right">2021, 2022</div>
@@ -69,6 +70,8 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a first-year Ph.D. st
 - CIKM [2024](https://cikm2024.org/)
 
 ### 👨‍🏫 Teaching Assistant
+
+- <div style="float: left"> Academic Literature Reading and Writing (For undergraduate students)</div><div style="float: right">Spring 2024</div>
 
 - <div style="float: left"> Problem Solving (For undergraduate students)</div><div style="float: right">Fall 2023</div>
 
