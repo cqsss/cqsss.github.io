@@ -7,12 +7,13 @@ profile:
 published: true
 ---
 
-我是**陈乔晟**，目前是一名一年级博士生，就读于[南京大学](https://www.nju.edu.cn/)计算机科学与技术系[万维网软件研究组](http://ws.nju.edu.cn/)。2021年，我本科毕业于[哈尔滨工业大学（威海）](https://www.hitwh.edu.cn/)，同年保研至南京大学。2023年，我开始在[程龚](http://ws.nju.edu.cn/~gcheng)教授的指导下攻读博士学位。
+**陈乔晟**，二年级博士生，就读于[南京大学](https://www.nju.edu.cn/)计算机科学与技术学院[万维网软件研究组](http://ws.nju.edu.cn/)。2021年，本科毕业于[哈尔滨工业大学（威海）](https://www.hitwh.edu.cn/)，同年保研至南京大学。2023年，开始在[程龚](http://ws.nju.edu.cn/~gcheng)教授的指导下攻读博士学位。
 
 ### 🔍 研究兴趣
 
 - 数据搜索
 - 信息检索
+- 检索增强生成（RAG）
 
 ### 📔 发表论文
 
