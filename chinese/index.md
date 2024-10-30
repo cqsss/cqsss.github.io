@@ -56,15 +56,13 @@ published: true
 
 ### 🏅 荣誉和奖项
 
-- <div style="float: left"> 南京大学优秀研究生 </div><div style="float: right">2022</div>
+- <div style="float: left"> 国家奖学金（博士生） </div><div style="float: right">2024</div>
 
-- <div style="float: left"> 南京大学一等学业奖学金 </div><div style="float: right">2021, 2022</div>
+- <div style="float: left"> 南京大学优秀研究生 </div><div style="float: right">2022</div>
 
 - <div style="float: left"> 山东省优秀毕业生 </div><div style="float: right">2021</div>
 
 - <div style="float: left"> ACM-ICPC亚洲区域赛上海站银奖 </div><div style="float: right">2019</div>
-
-- <div style="float: left"> 哈尔滨工业大学（威海）一等奖学金 </div><div style="float: right">2018, 2019</div>
 
 - <div style="float: left"> ACM-ICPC亚洲区域赛徐州站银奖 </div><div style="float: right">2018</div>
 
