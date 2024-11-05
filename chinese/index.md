@@ -27,7 +27,7 @@ published: true
   [Enhancing Dataset Search with Compact Data Snippets.](https://doi.org/10.1145/3626772.3657837)  
   In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval.  
   **<font color=DodgerBlue>SIGIR 2024</font>**  <font color=Deeppink>CCF-A</font>  
-  [[Paper](https://doi.org/10.1145/3626772.3657837)][[Code](https://github.com/nju-websoft/CDS)]
+  [[Paper](https://doi.org/10.1145/3626772.3657837)][[Code](https://github.com/nju-websoft/CDS)][[Video](https://www.youtube.com/watch?v=10x2O9esWeU)]
 
 - **Qiaosheng Chen**, Weiqing Luo, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet Soylu, Basil Ell, Baifan Zhou, Evgeny Kharlamov, Gong Cheng.  
   [ACORDAR 2.0: A Test Collection for Ad Hoc Dataset Retrieval with Densely Pooled Datasets and Question-Style Queries.](https://doi.org/10.1145/3626772.3657866)  
