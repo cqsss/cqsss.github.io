@@ -18,10 +18,10 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
 ### 📔 Publications
 
 - **Qiaosheng Chen**, Xiao Zhou, Zhiyang Zhang, Gong Cheng.  
-  [DUNKS: Chunking and Summarizing Large and Heterogeneous Data for Dataset Search.]()  
+  [DUNKS: Chunking and Summarizing Large and Heterogeneous Data for Dataset Search.](https://doi.org/10.1007/978-3-031-77850-6_5)  
   To appear in Proc. of the 23rd International Semantic Web Conference.  
   **<font color=DodgerBlue>ISWC 2024</font>**  <font color=Deeppink>CCF-B</font>  
-  [[Paper]()][[Code](https://github.com/nju-websoft/DUNKS)]
+  [[Paper](https://doi.org/10.1007/978-3-031-77850-6_5)][[Code](https://github.com/nju-websoft/DUNKS)]
 
 - **Qiaosheng Chen**, Jiageng Chen, Xiao Zhou, Gong Cheng.  
   [Enhancing Dataset Search with Compact Data Snippets.](https://doi.org/10.1145/3626772.3657837)  
