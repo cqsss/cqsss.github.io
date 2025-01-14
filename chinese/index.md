@@ -57,7 +57,7 @@ published: true
 ### 🏆 人才计划
 
 - **<font color=Orange>2024年度中国科协青年人才托举工程博士生专项计划</font> (首届，全国共3226人入选)**  
-  托举学会: [中国中文信息学会 (CIPSC)](https://www.cipsc.org.cn/)
+  托举学会: [中国中文信息学会 (CIPS)](https://www.cipsc.org.cn/)
 
 ### 🏅 荣誉和奖项
 
@@ -75,7 +75,7 @@ published: true
 
 ### 🕵️ 学术服务  
 
-- **程序委员**： CIKM [2024](https://cikm2024.org/)
+- **程序委员**： SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/)
 
 ### 👨‍🏫 助教
 

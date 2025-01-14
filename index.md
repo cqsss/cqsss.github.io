@@ -56,7 +56,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
 ### 🏆 Grant
 
 - **<font color=Orange>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology </font> (First session, 3,226 recipients nationwide)**  
-  Supporting Society: [Chinese Information Processing Society of China (CIPSC)](https://www.cipsc.org.cn/)
+  Supporting Society: [Chinese Information Processing Society of China (CIPS)](https://www.cipsc.org.cn/)
 
 ### 🏅 Awards & Honors
 
@@ -74,7 +74,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
 
 ### 🕵️ Academic Services  
 
-- **PC Member**: CIKM [2024](https://cikm2024.org/)
+- **PC Member**: SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/)
 
 ### 👨‍🏫 Teaching Assistant
 
