@@ -17,6 +17,18 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
 
 ### 📔 Publications
 
+- **Qiaosheng Chen**, Kaijia Huang, Xiao Zhou, Weiqing Luo, Yuanning Cui, Gong Cheng.
+  [Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph.]()
+  In Proc. of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+  [[Resource](https://huggingface.co/collections/cqsss/huggingbench-67b2ee02ca45b15e351009a2)][[Code](https://github.com/nju-websoft/HuggingBench)]  
+  **<font color=DodgerBlue>SIGIR 2025</font>**  <font color=Deeppink>CCF-A</font>
+
+- Xiao Zhou, **Qiaosheng Chen**, Jiageng Chen, Gong Cheng.
+  [μDS: Multi-Objective Data Snippet Extraction for Dataset Search.]()
+  In Proc. of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+  [[Code](https://github.com/nju-websoft/OptimalDataSnippets)]  
+  **<font color=DodgerBlue>SIGIR 2025</font>**  <font color=Deeppink>CCF-A</font>
+
 - **Qiaosheng Chen**, Xiao Zhou, Zhiyang Zhang, Gong Cheng.
   [DUNKS: Chunking and Summarizing Large and Heterogeneous Data for Dataset Search.](https://doi.org/10.1007/978-3-031-77850-6_5)
   In Proc. of the 23rd International Semantic Web Conference.
