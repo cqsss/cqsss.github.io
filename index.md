@@ -63,7 +63,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
   [ACORDAR: A Test Collection for Ad Hoc Content-Based (RDF) Dataset Retrieval.](https://doi.org/10.1145/3477495.3531729)
   In Proc. of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
   [[Paper](https://doi.org/10.1145/3477495.3531729)][[Code](https://github.com/nju-websoft/ACORDAR)]  
-  **<font color=DodgerBlue>SIGIR 2023</font>**  <font color=Deeppink>CCF-A</font>
+  **<font color=DodgerBlue>SIGIR 2022</font>**  <font color=Deeppink>CCF-A</font>
 
 ### 🏆 Grant
 
