@@ -86,7 +86,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. c
 
 ### 🕵️ Academic Services  
 
-- **PC Member**: SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/), WSDM[2026]()
+- **PC Member**: SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/), WSDM [2026]()
 
 ### 👨‍🏫 Teaching Assistant
 
