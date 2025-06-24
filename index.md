@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. student of [Websoft Research Group](http://ws.nju.edu.cn/) at the School of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/). I received my B.Eng. degree from [Harbin Institute of Technology at Weihai](https://www.hitwh.edu.cn/) in 2021. In the same year, I was admitted to study for a M.Sc. degree in Nanjing University without entrance examination. In 2023, I started my Ph.D. degree under the supervision of [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng).
+My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. candidate of [Websoft Research Group](http://ws.nju.edu.cn/) at the School of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/). I received my B.Eng. degree from [Harbin Institute of Technology at Weihai](https://www.hitwh.edu.cn/) in 2021. In the same year, I was admitted to study for a M.Sc. degree in Nanjing University without entrance examination. In 2023, I started my Ph.D. degree under the supervision of [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng).
 
 ### 🔍 Research Interests
 
@@ -86,7 +86,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. s
 
 ### 🕵️ Academic Services  
 
-- **PC Member**: SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/)
+- **PC Member**: SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/), WSDM[2026]()
 
 ### 👨‍🏫 Teaching Assistant
 

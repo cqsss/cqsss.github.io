@@ -87,7 +87,7 @@ published: true
 
 ### 🕵️ 学术服务  
 
-- **程序委员**： SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/)
+- **程序委员**： SIGIR [2025](https://sigir2025.dei.unipd.it/), CIKM [2024](https://cikm2024.org/), [2025](https://cikm2025.org/), WSDM[2026]()
 
 ### 👨‍🏫 助教
 
