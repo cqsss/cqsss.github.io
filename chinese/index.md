@@ -17,16 +17,22 @@ published: true
 
 ### 📔 发表论文
 
+- Chuan Xu, **Qiaosheng Chen**, Yutong Feng and Gong Cheng.
+  [mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs]()
+  In Proc. of the 24th International Semantic Web Conference.
+  [[Resource](https://huggingface.co/datasets/Askio/mmrag_benchmark)][[Code](https://github.com/nju-websoft/mmRAG)]
+  **<font color=DodgerBlue>ISWC 2025</font>**  <font color=Deeppink>CCF-B</font>
+
 - **Qiaosheng Chen**, Kaijia Huang, Xiao Zhou, Weiqing Luo, Yuanning Cui, Gong Cheng.
-  [Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph.]()
+  [Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph.](https://doi.org/10.1145/3726302.3730277)
   In Proc. of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval.
-  [[Resource](https://huggingface.co/collections/cqsss/huggingbench-67b2ee02ca45b15e351009a2)][[Code](https://github.com/nju-websoft/HuggingBench)]  
+  [[Paper](https://doi.org/10.1145/3726302.3730277)][[Resource](https://huggingface.co/collections/cqsss/huggingbench-67b2ee02ca45b15e351009a2)][[Code](https://github.com/nju-websoft/HuggingBench)]  
   **<font color=DodgerBlue>SIGIR 2025</font>**  <font color=Deeppink>CCF-A</font>
 
 - Xiao Zhou, **Qiaosheng Chen**, Jiageng Chen, Gong Cheng.
-  [μDS: Multi-Objective Data Snippet Extraction for Dataset Search.]()
+  [μDS: Multi-Objective Data Snippet Extraction for Dataset Search.](https://doi.org/10.1145/3726302.3730120)
   In Proc. of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval.
-  [[Code](https://github.com/nju-websoft/OptimalDataSnippets)]  
+  [[Paper](https://doi.org/10.1145/3726302.3730120)][[Code](https://github.com/nju-websoft/OptimalDataSnippets)]  
   **<font color=DodgerBlue>SIGIR 2025</font>**  <font color=Deeppink>CCF-A</font>
 
 - **Qiaosheng Chen**, Xiao Zhou, Zhiyang Zhang, Gong Cheng.
