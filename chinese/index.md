@@ -20,7 +20,7 @@ published: true
 - Chuan Xu, **Qiaosheng Chen**, Yutong Feng and Gong Cheng.
   [mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs]()
   In Proc. of the 24th International Semantic Web Conference.
-  [[Resource](https://huggingface.co/datasets/Askio/mmrag_benchmark)][[Code](https://github.com/nju-websoft/mmRAG)]
+  [[Resource](https://huggingface.co/datasets/Askio/mmrag_benchmark)][[Code](https://github.com/nju-websoft/mmRAG)]  
   **<font color=DodgerBlue>ISWC 2025</font>**  <font color=Deeppink>CCF-B</font>
 
 - **Qiaosheng Chen**, Kaijia Huang, Xiao Zhou, Weiqing Luo, Yuanning Cui, Gong Cheng.
