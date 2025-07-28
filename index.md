@@ -17,7 +17,7 @@ My name is **Qiaosheng Chen** (陈乔晟). Currently, I am a second-year Ph.D. c
 
 ### 📔 Publications
 
-- Chuan Xu, **Qiaosheng Chen**, Yutong Feng and Gong Cheng.
+- Chuan Xu, **Qiaosheng Chen**, Yutong Feng, Gong Cheng.
   [mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs]()
   In Proc. of the 24th International Semantic Web Conference.
   [[Resource](https://huggingface.co/datasets/Askio/mmrag_benchmark)][[Code](https://github.com/nju-websoft/mmRAG)]  
