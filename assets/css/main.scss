@@ -1,33 +1,81 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@charset "utf-8";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-// Width of the content area
-$content-width:    900px;
-$on-phone:         450px;
-$on-palm:          660px;
-$on-laptop:        1000px;
+@import "reset";
+@import "base";
 
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+
+@media (min-width: 1024px) {
+  .page {
+    padding-right: 0 !important;
+  }
+  .page__inner-wrap {
+    padding-right: 0 !important;
+  }
 }
+/* ====================================================
+   响应式调整：手机端图在上(居中)、字在下(左对齐)，不影响电脑端 
+   ==================================================== */
+@media screen and (max-width: 768px) {
+  /* 1. 强制改为纵向排布 */
+  .publication-card > div[style*="display: flex"] {
+    flex-direction: column !important;
+    align-items: flex-start !important; /* 保持文字靠左对齐，阅读体验更好 */
+  }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-// Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
+  /* 2. 调整图片外层容器 (.pub-media-rotator) 并让其单独居中 */
+  .publication-card .pub-media-rotator {
+    align-self: center !important;   /* 【核心修改】让图片在这个列中单独居中 */
+    margin-right: 0 !important;      /* 取消原来的右边距 */
+    margin-bottom: 15px !important;  /* 增加下边距，隔开文字 */
+    width: 100% !important;          
+    max-width: 320px !important;     /* 限制图片最大宽度 */
+    height: auto !important;         
+    flex: none !important;           
+  }
 
-// JN: For now, split @import to anable conditional import of CSS. Also. @import may be deprecated soon so plan
-// for this change
-
-@import 'variables';
-@import 'footer-social';
-@import 'projects';
-@import 'profile';
-@import 'footer';
-@import 'style';
-@import 'google-fonts';
-@import 'syntax-highlighting';
+  /* 3. 调整内部图片尺寸 */
+  .publication-card .pub-media-rotator img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 180px !important;    
+    object-fit: contain !important;
+    margin: 0 auto !important;       /* 确保图片本身在容器内部也居中 */
+  }
+}
